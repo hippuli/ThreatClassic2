@@ -1,3 +1,21 @@
+<!-- wowup-repackaging-note -->
+> [!NOTE]
+> This repository is an unofficial repackaging of the original CurseForge addon,
+> maintained to make installation and update management available through WowUp.
+>
+> I am not the original author and do not claim ownership of the addon. Credit and
+> ownership remain with the original author and other contributors.
+>
+> Original project: <https://www.curseforge.com/wow/addons/threatclassic2>
+>
+> If you are the original author or current maintainer and would like this
+> repository removed or made private, please contact me through GitHub. I will
+> honor the request.
+
+---
+
+## Original README
+
 # ThreatClassic2 [!["Open Issues"](https://img.shields.io/github/issues-raw/dfherr/ThreatClassic2.svg)](https://github.com/dfherr/ThreatClassic2/issues)
 ThreatClassic2 is a threat meter for WoW Classic and TBC Classic.
 
